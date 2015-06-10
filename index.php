@@ -1,7 +1,5 @@
 <?php
 	include("_connection.php");
-	
-	
 ?>
 <html>
 	<head>
@@ -16,9 +14,11 @@
 		  <script src="./bower_components/jquery/jquery.min.js"></script>
 		  <script src="./bower_components/jquery-mobile-bower/js/jquery.mobile-1.4.5.min.js"></script>
 		  <script src="./bower_components/d3/d3.min.js" language="JavaScript"></script>
-		  <script src="./js/liquidFillGauge.js" language="JavaScript"></script>
+		  <script src=".\bower_components\bootstrap\dist\js\bootstrap.min.js" language="JavaScript"></script>
+
 		  <!-- <script src="./bower_components/liquidFillGauge/liquidFillGauge.js" language="JavaScript"></script> -->
 		  
+		  <script src="./js/liquidFillGauge.js" language="JavaScript"></script>
 
 		  <!-- Website content -->
 		   <script src="./js/labapp_menu.js"></script>

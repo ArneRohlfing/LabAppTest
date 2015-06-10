@@ -2,7 +2,8 @@
 ## Follow the steps to get the prototype to run
 
 1. Git and Github
-  1. Install Git and make sure to allow git to run as windows comand prompt!  (https://git-scm.com/download/win)
+  1. Install Git and make sure to allow git to run as windows comand prompt!
+    (https://git-scm.com/download/win)
   2. Install Github (https://windows.github.com/)
 2. xampp and mysql
   1. Install xampp (https://www.apachefriends.org/de/download.html)

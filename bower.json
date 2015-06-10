@@ -17,7 +17,6 @@
     "jquery": "~2.1.4",
     "jquery-mobile-bower": "~1.4.5",
     "d3": "~3.5.5",
-    "liquidFillGauge": "https://github.com/rnikhil275/liquidFillGauge",
-    "bootstrap": "~3.3.4"
+    "liquidFillGauge": "https://github.com/rnikhil275/liquidFillGauge"
   }
 }

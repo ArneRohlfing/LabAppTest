@@ -6,7 +6,7 @@
   2. Install Github (https://windows.github.com/)
 2. xampp and mysql
   1. Install xampp (https://www.apachefriends.org/de/download.html)
-  2. Clone this repo to \xampp\htdocs\*name*
+  2. Clone this repo to \xampp\htdocs\``*name*``
   3. Open mySQL-phpMyAdmin and create a new database named 'labappdb' and import \data\labappdb.sql into that database
 3. bower packages
   1. Install nodejs and restart (https://nodejs.org/)
